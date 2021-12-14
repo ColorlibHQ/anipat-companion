@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.anipat-pt-100 {
+    padding-top: 100px;
+}
+.anipat-pt-80 {
+    padding-top: 80px;
+}
+.anipat-pt-70 {
+    padding-top: 70px;
+}
+.anipat-pt-60 {
+    padding-top: 60px;
+}
+.anipat-pt-50 {
+    padding-top: 50px;
+}
+.anipat-pt-30 {
+    padding-top: 30px;
+}
+.anipat-pb-100 {
+    padding-bottom: 100px;
+}
+.anipat-pb-80 {
+    padding-bottom: 80px;
+}
+.anipat-pb-70 {
+    padding-bottom: 70px;
+}
+.anipat-pb-60 {
+    padding-bottom: 60px;
+}
+.anipat-pb-50 {
+    padding-bottom: 50px;
+}
+.anipat-pb-30 {
+    padding-bottom: 30px;
+}
